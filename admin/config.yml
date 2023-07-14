@@ -301,4 +301,3 @@ collections:
             widget: "boolean"
             default: false
           - {label: "Body", name: "body", widget: "markdown"}
-google-site-verification: googleb2e516abd5b93f40.html
