@@ -29,7 +29,10 @@
     <loc>/author/jinci-liu/</loc>
     <lastmod>2023-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/working-paper-1/</loc>
+    <loc>/author/mitch-downey/</loc>
+    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/working-paper-1/index_mitch/</loc>
     <lastmod>2023-09-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
@@ -61,21 +64,6 @@
   </url><url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
@@ -112,5 +100,17 @@
   </url><url>
     <loc>/tag/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>/publication-type/4/</loc>
+  </url><url>
+    <loc>/author/arash-nekoei/</loc>
+  </url><url>
+    <loc>/author/fabian-sinn/</loc>
+  </url><url>
+    <loc>/author/josef-sigurdsson/</loc>
+  </url><url>
+    <loc>/publication/working-paper-1/index_spe/</loc>
+  </url><url>
+    <loc>/publication/working-paper-1/index_wlrun/</loc>
   </url>
 </urlset>
