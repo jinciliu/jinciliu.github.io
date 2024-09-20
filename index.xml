@@ -734,10 +734,18 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
-      <title>Team specialization and innovation</title>
+      <title>Team specialization and knowledge spillover</title>
       <link>/publication/working-paper-1/index_spe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/publication/working-paper-1/index_spe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team specialization and resilience</title>
+      <link>/publication/working-paper-1/index_war/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/working-paper-1/index_war/</guid>
       <description></description>
     </item>
     
