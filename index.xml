@@ -734,18 +734,10 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
-      <title>Team specialization and knowledge spillover</title>
+      <title>Team specialization and productivity</title>
       <link>/publication/working-paper-1/index_spe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/publication/working-paper-1/index_spe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Team specialization and resilience</title>
-      <link>/publication/working-paper-1/index_war/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/working-paper-1/index_war/</guid>
       <description></description>
     </item>
     
@@ -754,6 +746,14 @@ Figure 1: A fancy pie chart.
       <link>/publication/working-paper-1/index_wlrun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/publication/working-paper-1/index_wlrun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Worker-level consequences of automation</title>
+      <link>/publication/working-paper-1/index_linkedin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/working-paper-1/index_linkedin/</guid>
       <description></description>
     </item>
     
