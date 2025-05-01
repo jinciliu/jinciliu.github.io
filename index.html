@@ -1585,10 +1585,15 @@
       
 
 <style>
-  #clustrmaps, 
-  .clustrmaps-container, 
-  iframe[src*="clustrmaps.com"] {
-    display: none !important;
+  iframe[src*="clustrmaps.com"],
+  div[id^="clustrmaps-widget"],
+  .clustrmaps-container {
+    width: 1px !important;
+    height: 1px !important;
+    opacity: 0 !important;
+    overflow: hidden !important;
+    pointer-events: none !important;
+    position: absolute !important;
   }
 </style>
 
