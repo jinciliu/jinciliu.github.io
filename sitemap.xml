@@ -38,17 +38,29 @@
     <loc>/publication/</loc>
     <lastmod>2025-03-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication-type/4/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/working-paper-1/index_toxicity/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/</loc>
-    <lastmod>2024-08-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/jinci-liu/</loc>
-    <lastmod>2024-08-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/mitch-downey/</loc>
-    <lastmod>2024-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/working-paper-1/index_mitch/</loc>
-    <lastmod>2024-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/with-mitch-downey/</loc>
+    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/kang-zhou/</loc>
+    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/working-paper-1/index_rainfall/</loc>
+    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/with-wenjie-tian/</loc>
+    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
@@ -60,6 +72,9 @@
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
     <loc>/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/jinci-liu/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/slides/</loc>
@@ -104,20 +119,16 @@
     <loc>/tag/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/publication-type/4/</loc>
-  </url><url>
-    <loc>/author/arash-nekoei/</loc>
-  </url><url>
-    <loc>/author/dominik-wehr/</loc>
-  </url><url>
     <loc>/author/fabian-sinn/</loc>
   </url><url>
     <loc>/author/josef-sigurdsson/</loc>
   </url><url>
     <loc>/publication/working-paper-1/index_wlrun/</loc>
   </url><url>
-    <loc>/publication/working-paper-1/index_toxicity/</loc>
+    <loc>/publication/working-paper-1/index_toxic_experiment/</loc>
   </url><url>
-    <loc>/publication/working-paper-1/index_linkedin/</loc>
+    <loc>/author/with-arash-nekoei/</loc>
+  </url><url>
+    <loc>/author/with-huen-tat-au-yeung/</loc>
   </url>
 </urlset>
