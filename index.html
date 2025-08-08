@@ -1522,80 +1522,42 @@
     
 
     
-    
     <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", user => {
-          if (!user) {
-            window.netlifyIdentity.on("login", () => {
-              document.location.href = "/admin/";
-            });
-          }
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
         });
       }
-    </script>
-    
+    });
+  }
+</script>
 
-    
-    
+<script src="/js/academic.min.0d53a7f39b7d6770128a54b39dad2f22.js"></script>
 
+<div class="container">
+  <footer class="site-footer">
     
-    
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    
-    
-    
-    <script src="/js/academic.min.0d53a7f39b7d6770128a54b39dad2f22.js"></script>
+    <!-- Added GitHub image -->
+    <div style="text-align:center; margin-top:20px;">
+      <img src="images/github2.png" alt="GitHub Logo" style="max-width:200px; height:auto;">
+    </div>
 
+    <p class="powered-by"></p>
 
+    <p class="powered-by">
+      <span class="float-right" aria-hidden="true">
+        <a href="#" class="back-to-top">
+          <span class="button_icon">
+            <i class="fas fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+    </p>
+  </footer>
+</div>
 
-
-
-  
-  
-  <div class="container">
-    <footer class="site-footer">
-  
-
-  <p class="powered-by">
-    
-  </p>
-
-  
-  
-
-
-
-
-
-
-  <p class="powered-by">
-    
-
-    
-    <span class="float-right" aria-hidden="true">
-      <a href="#" class="back-to-top">
-        <span class="button_icon">
-          <i class="fas fa-chevron-up fa-2x"></i>
-        </span>
-      </a>
-    </span>
-    
-  </p>
-</footer>
-
-  </div>
-  
-
-  
 <div id="modal" class="modal fade" role="dialog">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -1623,3 +1585,4 @@
 
 </body>
 </html>
+
