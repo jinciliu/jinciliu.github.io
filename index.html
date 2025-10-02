@@ -866,16 +866,22 @@ a.nolink {
     
 <style>
 .abstract {
-  font-size: 0.7rem;
   margin-top: 0.5rem;
   color: #555;
 }
+
 .abstract summary {
   cursor: pointer;
   font-weight: 500;
+  font-size: 1rem; /* keep normal size */
+}
+
+.abstract .article-style {
+  font-size: 0.8rem; /* smaller only for abstract text */
+  line-height: 1.4;
 }
 .coauthor {
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   color: #555;
 }
 .coauthor a {
