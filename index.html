@@ -867,20 +867,21 @@ a.nolink {
 <style>
 .abstract {
   margin-top: 0.5rem;
-    font-size: 0.8rem;
+  font-size: 0.8rem;
   color: #555;
 }
 
 .abstract summary {
   cursor: pointer;
   font-weight: 500;
-  font-size: 1rem; /* keep normal size */
+  font-size: 1rem; /* same as body */
 }
 
 .abstract .article-style {
-  font-size: 0.8rem; /* smaller only for abstract text */
-  line-height: 1.4;
-  font-family: inherit;    /* make sure font matches body text */
+  font-size: 0.8rem;  /* slightly smaller than body */
+  line-height: 1.5;
+  font-family: inherit; /* inherit site font */
+  color: inherit;
 }
 .coauthor {
   font-size: 0.8rem;
