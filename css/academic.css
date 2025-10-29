@@ -71,6 +71,13 @@ html.dark pre, html.dark code,
 body.dark .big-icon, html.dark .big-icon, [data-theme="dark"] .big-icon {
   color: #e6e6e6;
 }
+a.cv-link {
+  color: #33587f !important;
+}
+a.cv-link:hover {
+  color: #4a76a1 !important; /* optional lighter hover tone */
+  text-decoration: underline;
+}
 
 /* Tables and list bullets */
 body.dark li, html.dark li, [data-theme="dark"] li { color: #e6e6e6; }
