@@ -19,7 +19,7 @@ html.dark h1, html.dark h2, html.dark h3,
 /* Links */
 a { text-decoration: none; }
 body.dark a, html.dark a, [data-theme="dark"] a {
-  color: #88b7ff;
+  color: #33587F;
 }
 a:hover { text-decoration: underline; }
 
